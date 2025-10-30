@@ -1,0 +1,16 @@
+_id,avg_energy,count,max_energy,min_energy,country
+"Polynésie française,France",3766.0,1,3766.0,3766.0,"Polynésie française,"
+"United States,Australia",3289.0,1,3289.0,3289.0,"United States,Austra"
+"Germany,France",3168.0,2,3761.0,2575.0,"Germany,France"
+Česko,2919.0,2,3693.0,2145.0,Česko
+"en:IT,France",2847.0,2,3711.0,1983.0,"en:IT,France"
+"Países Baixos,Portugal, en:france",2775.0,1,2775.0,2775.0,"Países Baixos,Portug"
+"France,Belgiqu,Belgique",2740.0,1,2740.0,2740.0,"France,Belgiqu,Belgi"
+"France,Royaume-Uni,États-Unis",2707.0,1,2707.0,2707.0,"France,Royaume-Uni,É"
+Costa Rica,2680.0,1,2680.0,2680.0,Costa Rica
+"République tchèque,France, Suisse",2619.0,1,2619.0,2619.0,"République tchèque,F"
+"Francia,Portugal,España,France",2607.0,1,2607.0,2607.0,"Francia,Portugal,Esp"
+"Puyricard,France",2607.0,1,2607.0,2607.0,"Puyricard,France"
+"Germany, en:france,France",2583.0,1,2583.0,2583.0,"Germany, en:france,F"
+en:EU,2561.0,1,2561.0,2561.0,en:EU
+Cambodge,2550.0,1,2550.0,2550.0,Cambodge

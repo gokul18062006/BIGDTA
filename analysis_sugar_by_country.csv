@@ -1,0 +1,16 @@
+_id,avg_sugar,count,max_sugar,min_sugar,country
+"Nouvelle-Calédonie,France",100.0,1,100.0,100.0,"Nouvelle-Calédonie,F"
+"en:IE, en:france",100.0,1,100.0,100.0,"en:IE, en:france"
+"Denmark,Norway,Sweden",89.0,1,89.0,89.0,"Denmark,Norway,Swede"
+"Österreich,Deutschland,Niederlande",87.5,3,87.5,87.5,"Österreich,Deutschla"
+"Deutschland,Vereinigtes Königreich,Vereinigte Staaten von Amerika",87.5,3,87.5,87.5,"Deutschland,Vereinig"
+"Australien,Deutschland",87.5,3,87.5,87.5,"Australien,Deutschla"
+"en:KW,France",85.3,1,85.3,85.3,"en:KW,France"
+"España, en:denmark, Suisse",85.0,1,85.0,85.0,"España, en:denmark, "
+"Finlande,France",82.0,1,82.0,82.0,"Finlande,France"
+"France,Australie",82.0,1,82.0,82.0,"France,Australie"
+"France,Denmark",81.9,1,81.9,81.9,"France,Denmark"
+"Francia,Alemania,España",81.5,1,81.5,81.5,"Francia,Alemania,Esp"
+Vereinigte Staaten von Amerika,76.2,1,76.2,76.2,Vereinigte Staaten v
+"Australia,Philippines",76.0,1,76.0,76.0,"Australia,Philippine"
+"Guyane,Guadeloupe,Martinique",75.0,1,75.0,75.0,"Guyane,Guadeloupe,Ma"

@@ -1,0 +1,16 @@
+_id,avg_fat,count,max_fat,min_fat,country
+"Polynésie française,France",100.0,1,100.0,100.0,"Polynésie française,"
+"United States,Australia",85.71,1,85.71,85.71,"United States,Austra"
+"Germany,France",75.1,2,99.9,50.3,"Germany,France"
+"France,Belgiqu,Belgique",73.4,1,73.4,73.4,"France,Belgiqu,Belgi"
+Česko,64.3,2,99.8,28.8,Česko
+"en:PT,France",58.55,2,82.0,35.1,"en:PT,France"
+"Países Baixos,Portugal, en:france",58.0,1,58.0,58.0,"Países Baixos,Portug"
+"Germany, en:france,France",56.5,1,56.5,56.5,"Germany, en:france,F"
+france,56.1,1,56.1,56.1,france
+"Francia,Alemania,Mauricio,España,Reino Unido,France",55.0,1,55.0,55.0,"Francia,Alemania,Mau"
+Norge,51.96666666666667,6,82.0,23.5,Norge
+"Belgique,France,Allemagne,Pays-Bas",50.0,1,50.0,50.0,"Belgique,France,Alle"
+en:EU,50.0,1,50.0,50.0,en:EU
+Costa Rica,50.0,1,50.0,50.0,Costa Rica
+"République tchèque,France, Suisse",50.0,1,50.0,50.0,"République tchèque,F"
